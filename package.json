@@ -1,7 +1,7 @@
 {
   "name": "5.3-axios",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "solution.js",
   "type": "module",
   "engines": {
     "node": ">= 14.0.0",
@@ -18,7 +18,8 @@
   "contributors": [],
   "scripts": {
     "dev": "",
-    "test": ""
+    "test": "",
+    "start": "node solution.js"
   },
   "description": "",
   "dependencies": {
