@@ -7,7 +7,7 @@ It fetches random activity ideas from the [Bored API](https://bored-api.appbrewe
 
 ## 🖼️ Preview
 
-![App Screenshot](.image.png)
+![App Screenshot](https://github.com/FiyinfoluwaDav/Kill-Boredom/blob/main/image.png)
 
 ---
 
@@ -47,5 +47,6 @@ It fetches random activity ideas from the [Bored API](https://bored-api.appbrewe
 git clone https://github.comFiyinfoluwaDav/kill-boredom1.git
 npm install
 npm start
+
 
 
