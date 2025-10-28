@@ -44,9 +44,10 @@ It fetches random activity ideas from the [Bored API](https://bored-api.appbrewe
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.comFiyinfoluwaDav/kill-boredom1.git
+git clone https://github.comFiyinfoluwaDav/kill-Boredom.git
 npm install
 npm start
+
 
 
 
