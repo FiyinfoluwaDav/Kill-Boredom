@@ -11,7 +11,7 @@ It fetches random activity ideas from the [Bored API](https://bored-api.appbrewe
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  Fetches random activity ideas using the Bored API  
 -  Filter by **activity type** (e.g., education, recreational, music)  
@@ -22,7 +22,7 @@ It fetches random activity ideas from the [Bored API](https://bored-api.appbrewe
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 | Category | Technology |
 |-----------|-------------|
@@ -34,19 +34,14 @@ It fetches random activity ideas from the [Bored API](https://bored-api.appbrewe
 
 ---
 
-## 📂 Folder Structure
+##  Installation & Setup
 
-
-
----
-
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone this repository
+###  Clone this repository
 ```bash
-git clone https://github.comFiyinfoluwaDav/kill-Boredom.git
+git clone https://github.com/FiyinfoluwaDav/kill-Boredom.git
 npm install
 npm start
+
 
 
 
